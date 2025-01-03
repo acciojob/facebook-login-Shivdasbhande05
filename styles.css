@@ -6,14 +6,14 @@ body{
 	align-items : center;
 	height : 100vh;
 }
-.left{
+.left .right{
 	width : 450px;
 	margin-top : 70px;
 	display : inline-block;
 }
-.left img{
-	width : 200px;
-	margin-bottom : 20px;
+img{
+	width : 100%;
+	height : auto;
 }
 form{
 	display : flex;
